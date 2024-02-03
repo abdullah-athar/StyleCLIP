@@ -34,7 +34,7 @@ parser.add_argument(
 parser.add_argument(
     '--prompt',
     type=str,
-    default='An image with the face of a blonde woman with blonde hair and purple eyes',
+    default='Miffy rabbit crystal sculpture ',
     help='',
 )
 parser.add_argument(
